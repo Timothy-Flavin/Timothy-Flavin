@@ -8,5 +8,19 @@
 - 📫 How to reach me: Timothy.C.Flavin@gmail.com
 - ⚡ Fun fact: I like to rock climb and swim in my free time. 
 
-### languages/skills 
-<img src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" width=64>
+### languages/skills (in no particular order)
+<img alt="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" width=64 align="left"/>
+<img alt="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" width=64 align="left"/>
+<img alt="Tensorflow" src="https://miro.medium.com/max/3150/1*iDQvKoz7gGHc6YXqvqWWZQ.png" width=64 align="left"/>
+<img alt="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=64 align="left"/>
+<img alt="HTML5,CSS,JS" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width=128 align="left"/>
+<img alt="SQL" src="https://image.flaticon.com/icons/png/512/29/29165.png" width=64 align="left"/>
+<img alt="PL/SQL" src="https://my.trocaire.edu/app/uploads/2016/12/pl-sql.png" width=64 align="left"/>
+<img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" width=64 align="left"/>
+<img alt="Unity" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" width=64 align="left"/>
+<img alt="RobotC" src="https://renegaderobotics.org/wp-content/uploads/ROBOTC-logo-larger-e1500138348470.png" width=128 align="left"/>
+<img alt="SDL2" src="https://matthewstyles.com/wp-content/uploads/2018/03/Sdl-logo.png" width=128 align="left"/>
+<img alt="Vue.js" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" width=64 align="left"/>
+<img alt="Linux" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width=64 align="left"/>
+<img alt="MacOs" src="https://cdn.osxdaily.com/wp-content/uploads/2013/11/finder.png" width=64 align="left"/>
+<img alt="Windows" src="https://icons-for-free.com/iconfiles/png/512/windows+icon-1320183248795058577.png" width=64 align="left"/>
