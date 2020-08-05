@@ -17,10 +17,14 @@
 <img alt="SQL" src="https://image.flaticon.com/icons/png/512/29/29165.png" width=64 align="left"/>
 <img alt="PL/SQL" src="https://my.trocaire.edu/app/uploads/2016/12/pl-sql.png" width=64 align="left"/>
 <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" width=64 align="left"/>
-<img alt="Unity" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" width=64 align="left"/>
+<img alt="Unity" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" width=64/>
 <img alt="RobotC" src="https://renegaderobotics.org/wp-content/uploads/ROBOTC-logo-larger-e1500138348470.png" width=128 align="left"/>
 <img alt="SDL2" src="https://matthewstyles.com/wp-content/uploads/2018/03/Sdl-logo.png" width=128 align="left"/>
-<img alt="Vue.js" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" width=64 align="left"/>
+<img alt="R" src="https://cdn.iconscout.com/icon/free/png-256/r-5-283170.png" width=64 align="left"/>
+<img alt="Matlab" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width=64 align="left"/>
+<img alt="Node.js" src="https://icon-library.com/images/node-icon/node-icon-21.jpg" width=96 align="left"/>
+<img alt="Vue.js" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" width=64/>
+<h3>Operating systems developed on</h3>
 <img alt="Linux" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width=64 align="left"/>
 <img alt="MacOs" src="https://cdn.osxdaily.com/wp-content/uploads/2013/11/finder.png" width=64 align="left"/>
 <img alt="Windows" src="https://icons-for-free.com/iconfiles/png/512/windows+icon-1320183248795058577.png" width=64 align="left"/>
