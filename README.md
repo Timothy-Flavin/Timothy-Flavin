@@ -1,12 +1,13 @@
 ### Hello mysterious profile viewer 👋
 
-- 🔭 I’m currently working on internal Web apps for work, my game "The Path We Traveled", the first 100 project Euler problems, and a PoseNet based ML model for physical fitness.
-- 🌱 I’m currently learning Tensorflow/Keras, Cache efficient practices in C++, hapi.js, Oracle PL/SQL and everything else ;)
-- 👯 I’m looking to collaborate with my friend on arduino project using a robot arm I built this summer. The idea is to make it draw pictures with a marker based on a dithering algorithm.
-- 🤔 I’m looking for help with server side and mobile developement or network security.
-- 💬 Ask me about Game engine developement, Machine learning / Data science, and UI/Api end developement.
+- 🔭 I’m currently working on: Internal Web apps for WWT, My Game: "The Path We Traveled", Project Euler problems 1-100, and a PoseNet based ML model exercise form.
+- 🌱 I’m currently learning Tensorflow/Keras, Cache efficient practices in C++, Hapi.js, Oracle PL/SQL and everything else ;)
+- 👯 I’m looking to collaborate on an arduino project using a robot arm I built this summer. The idea is to make the arm draw pictures with a marker based on a dithering algorithm.
+- 🤔 I’m looking for help with server side developement, mobile developement and computer security.
+- 💬 Ask me about Game Engine developement, Machine learning / Data science, and UI/Api end developement.
 - 📫 How to reach me: Timothy.C.Flavin@gmail.com
 - ⚡ Fun fact: I like to rock climb and swim in my free time. 
+- ✔  Goals for 2020: Learn how to use Docker Containers, program and contribute something every day after June 21, Create personal website, create Dev Logs for "The Path We Traveled", Contribute to Open Source projects.
 
 ### languages/skills (in no particular order)
 <img alt="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" width=64 align="left"/>
