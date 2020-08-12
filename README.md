@@ -24,7 +24,8 @@
 <img alt="R" src="https://cdn.iconscout.com/icon/free/png-256/r-5-283170.png" width=64 align="left"/>
 <img alt="Matlab" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width=64 align="left"/>
 <img alt="Node.js" src="https://icon-library.com/images/node-icon/node-icon-21.jpg" width=96 align="left"/>
-<img alt="Vue.js" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" width=64/>
+<img alt="Vue.js" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" width=64 align="left"/>
+<img alt="Vuetify" src="https://res.cloudinary.com/confidante/image/upload/v1520961320/logo_ew2tpg.png" width=64/>
 <h3>Operating systems developed on</h3>
 <img alt="Linux" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width=64 align="left"/>
 <img alt="MacOs" src="https://cdn.osxdaily.com/wp-content/uploads/2013/11/finder.png" width=64 align="left"/>
