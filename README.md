@@ -7,7 +7,7 @@
 - 💬 **Ask me about Game Engine** developement, Machine learning / Data science, and UI/Api end developement.
 - 📫 **How to reach me:** Timothy.C.Flavin@gmail.com
 - ⚡ **Fun fact:** I like to rock climb and swim in my free time. 
-- ✔  **Goals for 2020:** Learn how to use Docker Containers, program and contribute something every day after June 21, Create personal website, create Dev Logs for "The Path We Traveled", Contribute to Open Source projects.
+- ✔  **Goals for 2020:** Learn how to use Docker Containers, program and contribute something every day until school starts back up, Create personal website, create Dev Logs for "The Path We Traveled", Contribute to Open Source projects.
 
 ### languages/skills (in no particular order)
 <img alt="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" width=64 align="left"/>
