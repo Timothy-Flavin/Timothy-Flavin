@@ -29,4 +29,4 @@
 <h3>Operating systems developed on</h3>
 <img alt="Linux" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width=64 align="left"/>
 <img alt="MacOs" src="https://cdn.osxdaily.com/wp-content/uploads/2013/11/finder.png" width=64 align="left"/>
-<img alt="Windows" src="https://icons-for-free.com/iconfiles/png/512/windows+icon-1320183248795058577.png" width=64 align="left"/>
+<img alt="Windows" src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" width=64 align="left"/>
