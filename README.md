@@ -1,16 +1,16 @@
 ### Hello mysterious profile viewer 👋
 
-- 🔭 **I’m currently working on:** EvaluWeight's Website/Mobile app, My Game: "The Path We Traveled", Project Euler problems 1-100, and a Sr capstone project called tomb of khaibit
-- 🌱 **I’m currently learning** Tensorflow/Keras, Cache efficient practices in C++, Node.js, Clojure and everthing else ;)
-- 👯 **I’m looking to collaborate** on an arduino project using a robot arm I built this summer. The idea is to make the arm draw pictures with a marker based on a dithering algorithm.
-- 🤔 **I’m looking for help with** mobile developement, Pytorch and computer security.
-- 💬 **Ask me about Game Engine** developement, Machine learning / Data science, and UI/Api end developement.
+- 🔭 **I’m currently working on:** Graduate Research in EEG processing with Machine learning at TU, A linear algebra library in C, A security trading AI in Python
+- 🌱 **I’m currently learning** Tensorflow/Keras, Signal processing techniques and time frequency analysis, Computationally efficient practices in C, and everything else ;)
+- 👯 **I’m looking to collaborate** on an arduino project using a robot arm I built last summer or my trading AI. 
+- 🤔 **I’m looking for help with** Neuroscience domain knowledge, and Pytorch.
+- 💬 **Ask me about** Game Engine developement, Machine learning / Data science, and UI/Api end developement.
 - 📫 **How to reach me:** Timothy.C.Flavin@gmail.com
 - ⚡ **Fun fact:** I like to rock climb and swim in my free time. 
-- ✔  **Goals for 2020:** Learn how to use Docker Containers, program and contribute something every day until school starts back up, Create personal website, create Dev Logs for "The Path We Traveled", Contribute to Open Source projects.
+- ✔  **Goals for 2022:** Complete papers on Physionet and LIBR EEG data, Complete ML_Democracy, Contribute to Open Source projects.
 
 ### languages/skills (in no particular order)
-<img alt="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" width=64 align="left"/>
+<img alt="C/C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" width=64 align="left"/>
 <img alt="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" width=64 align="left"/>
 <img alt="Tensorflow" src="https://miro.medium.com/max/3150/1*iDQvKoz7gGHc6YXqvqWWZQ.png" width=64 align="left"/>
 <img alt="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=64 align="left"/>
