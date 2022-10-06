@@ -16,7 +16,7 @@
 <img alt="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=64 align="left"/>
 <img alt="HTML5,CSS,JS" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width=128 align="left"/>
 <img alt="SQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width=64 align="left"/>
-<img alt="C#" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png)" width=64 align="left"/>
+<img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width=64 align="left"/>
 <img alt="Unity" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" width=64/>
 <img alt="RobotC" src="https://renegaderobotics.org/wp-content/uploads/ROBOTC-logo-larger-e1500138348470.png" width=128 align="left"/>
 <img alt="SDL2" src="https://wiki.libsdl.org/static_files/logo.png" width=64 align="left"/>
