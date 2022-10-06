@@ -30,3 +30,12 @@
 <img alt="Linux Mint" src="https://winaero.com/blog/wp-content/uploads/2019/12/Linux-Mint-Linuxmint-Logo-Icon-New.png" width=64 align="left"/>
 <img alt="MacOs" src="https://cdn.osxdaily.com/wp-content/uploads/2013/11/finder.png" width=64 align="left"/>
 <img alt="Windows" src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" width=64 align="left"/>
+<br/>
+<h3>Languages Text Format</h3>
+C/C++, Python3, R, C#, Java, Html5, CSS, JavaScript, SQL, Matlab, Node.js, RobotC
+<h3>Tools</h3>
+ML Models: TensorFlow2/Keras, Pytorch, Scikit-Learn 
+<br/>
+ML environments: Gym, Petting Zoo, Unity
+<br/>
+Misc: SDL2, Vue.js/Veutify, Hapi.js, Express.js, OpenCV, PyGame
