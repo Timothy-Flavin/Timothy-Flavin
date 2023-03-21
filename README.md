@@ -3,11 +3,11 @@
 - 🔭 **I’m currently working on:** Graduate Research in Multi Agent Reinforcement learning (MARL) and ML-based Intrusion Detection Systems (IDS) at the University of Tulsa
 - 🌱 **I’m currently learning and implementing** The histroy of MARL algorithms and methods of machine learning interperobility. 
 - 👯 **I’m looking to collaborate** On anything where I can churn through some data. Bonus points if that data is seen from the perspective of an agent in an environment.
-- 🤔 **I’m looking for help with** Deep Learning for Drug Synthesis. 
+- 🤔 **I’m looking for help with** RLHF. 
 - 💬 **Ask me about** Machine learning / Statistical modeling, Game / Game-Engine developement, and web developement.
 - 📫 **How to reach me:** Timothy.C.Flavin@gmail.com
 - ⚡ **Fun facts:** I've got about 1,000 hours spend in Kerbal Space Program and I rock climb at about a v4 bouldering difficulty
-- ✔  **Goals for 2022:** Complete papers on Physionet and LIBR EEG data, Complete ML_Democracy pip installation, Contribute more to Open Source projects.
+- ✔  **Goals for 2023:** Publish 3 papers for the CHAISE project, Complete ML_Democracy pip installation, Contribute more to Open Source projects.
 
 ### languages/skills (in no particular order)
 <img alt="C/C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" width=64 align="left"/>
